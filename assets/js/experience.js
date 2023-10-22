@@ -9,10 +9,10 @@ const exp = [
     title: "Softwarre Developer",
     cardImage: "assets/images/experience-page/cass.png",
     place: "CASS(Center for Applied Systems & Software)",
-    time: "(Aug 2019 - June 2020)",
-    desp: "<li>Create factories to detect current weather meet the warning level via .NET and set unit tests to test if corresponding factories work appropriately</li>"+
-          "<li>Implement Client-Side Validations and fetched data to communicate with REST services with JSON Data.</li>"+
-          "<li>Write SQL query in back-end to clean and collect the data</li>"+
+    time: "(December 2021 – July 2022)",
+    desp: "<li>Developed transportation weather notification service components for Oregon residents using ASP.NET Core.</li>"+
+          "<li>Implemented functionalities to detect if current weather meets the warning level in the service under test-driven development.</li>"+
+          "<li>Refactored existing data pipelines into a RESTful API serving as a centralized data entry point and tested with SQL database.</li>"+
           "<p>...</p>",
   },
 ];
